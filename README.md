@@ -19,7 +19,6 @@ I will admit, that I am not much of a coder so although there probably are ways 
 
 
 
-
 Additional Sources:
 Hooking up LEDs
 https://www.digikey.com/en/maker/projects/apa102-addressable-led-hookup- guide/093dc573bcf2487ab2146cec7fd870b3
